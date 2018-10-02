@@ -1,4 +1,4 @@
-package org.itstep.qa.constructor.one;
+package org.itstep.qa.constructors.constructor;
 
 public class Box {
     private int width; // ширина коробки

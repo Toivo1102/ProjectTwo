@@ -1,4 +1,4 @@
-package org.itstep.qa.methods.method;
+package org.itstep.qa.constructors.constructor;
 
 public class Circle {
     private int rad;
@@ -7,8 +7,7 @@ public class Circle {
         this.rad = rad;
     }
 
-    public double getCircle(int rad) {
+    public double getCircle() {
         return 2 * Math.PI * rad;  // узнать длину окружности
     }
 }
-
