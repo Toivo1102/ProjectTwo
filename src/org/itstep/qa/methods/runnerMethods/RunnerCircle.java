@@ -1,6 +1,6 @@
-package org.itstep.qa.runnerMethods;
+package org.itstep.qa.methods.runnerMethods;
 
-import org.itstep.qa.methods.Circle;
+import org.itstep.qa.methods.method.Circle;
 
 public class RunnerCircle {
     public static void main (String [] args) {

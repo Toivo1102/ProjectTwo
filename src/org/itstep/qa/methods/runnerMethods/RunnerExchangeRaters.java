@@ -1,6 +1,6 @@
-package org.itstep.qa.runnerMethods;
+package org.itstep.qa.methods.runnerMethods;
 
-import org.itstep.qa.methods.ExchangeRates;
+import org.itstep.qa.methods.method.ExchangeRates;
 
 public class RunnerExchangeRaters {
 

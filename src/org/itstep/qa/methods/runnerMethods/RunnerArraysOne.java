@@ -1,6 +1,6 @@
-package org.itstep.qa.runnerMethods;
+package org.itstep.qa.methods.runnerMethods;
 
-import org.itstep.qa.methods.ArraysOne;
+import org.itstep.qa.methods.method.ArraysOne;
 
 import java.util.Arrays;
 

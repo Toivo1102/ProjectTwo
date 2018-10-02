@@ -1,4 +1,4 @@
-package org.itstep.qa.methods;
+package org.itstep.qa.methods.method;
 
 public class Circle {
     private int rad;

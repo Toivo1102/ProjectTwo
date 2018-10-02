@@ -1,6 +1,6 @@
-package org.itstep.qa.runnerMethods;
+package org.itstep.qa.methods.runnerMethods;
 
-import org.itstep.qa.methods.Random;
+import org.itstep.qa.methods.method.Random;
 
 public class RunnerRandom {
     public static void  main (String[] args) {

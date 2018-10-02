@@ -1,6 +1,6 @@
-package org.itstep.qa.runnerMethods;
+package org.itstep.qa.methods.runnerMethods;
 
-import org.itstep.qa.methods.Arrays;
+import org.itstep.qa.methods.method.Arrays;
 
 public class RunnerArrays {
     public static void  main (String[] args) {

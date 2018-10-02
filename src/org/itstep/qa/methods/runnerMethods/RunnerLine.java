@@ -1,6 +1,6 @@
-package org.itstep.qa.runnerMethods;
+package org.itstep.qa.methods.runnerMethods;
 
-import org.itstep.qa.methods.Line;
+import org.itstep.qa.methods.method.Line;
 
 public class RunnerLine {
     public static void main(String[] args) {
