@@ -1,4 +1,4 @@
-package org.itstep.qa.laboratory.square;
+package org.itstep.qa.laboratoryWork.laboratory;
 
 
 public class Square {

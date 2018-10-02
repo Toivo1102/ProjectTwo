@@ -1,6 +1,6 @@
-package org.itstep.qa.laboratory.runnerSquare;
+package org.itstep.qa.laboratoryWork.runnerLaboratory;
 
-import org.itstep.qa.laboratory.square.House;
+import org.itstep.qa.laboratoryWork.laboratory.House;
 
 public class RunnerHouse {
     public static void main (String [] args) {
