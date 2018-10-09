@@ -1,4 +1,4 @@
-package org.itstep.qa.laboratoryWorkTwo;
+package org.itstep.qa.laboratoryWorkTwo.player;
 
 import java.util.Random;
 

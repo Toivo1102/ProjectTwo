@@ -5,11 +5,13 @@ import org.itstep.qa.methods.method.Random;
 public class FieldDream {
     private int[] field;
 
-    public FieldDream (int [] field) {
+    public FieldDream(int[] field) {
+
         this.field = field;
     }
-    public int [] getField() {
-       return field;
+
+    public int[] getField() {
+        return field;
     }
 
     public int getRandom() {

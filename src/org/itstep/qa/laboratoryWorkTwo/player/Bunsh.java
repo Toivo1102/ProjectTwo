@@ -1,12 +1,16 @@
-package org.itstep.qa.laboratoryWorkTwo;
+package org.itstep.qa.laboratoryWorkTwo.player;
 
 import java.util.Random;
 
 public class Bunsh {
     private int coordinateX;
     private int coordinateY;
-    private String colorBunsh;
+    private String [] colorBunsh;
 
+    public Bunsh (String[] colorBunsh) {
+
+        this.colorBunsh = colorBunsh;
+    }
 
     public void coordinateX() {
         Random random = new Random();
@@ -18,8 +22,10 @@ public class Bunsh {
         coordinateY = random.nextInt(99);
     }
 
-    public void setColorBunsh(String colorBunsh) {
-        this.colorBunsh = colorBunsh;
+    public String color() {
+       Random random = new Random();
+        int randomIndex = random.nextInt(colorBunsh.length);
+        return colorBunsh[randomIndex];
     }
 
 
